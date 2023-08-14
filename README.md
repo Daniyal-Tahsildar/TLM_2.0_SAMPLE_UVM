@@ -6,7 +6,7 @@ Transaction-Level Modeling (TLM) is a crucial aspect of the Universal Verificati
 
 This repository demonstrates the usage of TLM 2.0 features, specifically focusing on blocking and non-blocking ports, and provides a practical example of connecting ports using a basic USB 2.0 implementation. 
 
-<img src="Images/TLM_2_diagram.png">
+<img src="Images/TLM_2_diagram.png" width= "90%" height = "60%">
 
 In TLM 2.0, communication between different components is facilitated through two distinct roles: the **Initiator** (sender) and the **Target** (receiver). 
 ### Blocking:
