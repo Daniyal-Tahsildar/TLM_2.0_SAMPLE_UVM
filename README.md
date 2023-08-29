@@ -6,6 +6,11 @@ Transaction-Level Modeling (TLM) is a crucial aspect of the Universal Verificati
 
 This repository demonstrates the usage of TLM 2.0 features, specifically focusing on blocking and non-blocking ports, and provides a practical example of connecting ports using a basic USB 2.0 implementation. 
 
+### EDA Playground links:
+- [Blocking](https://www.edaplayground.com/x/sQyx)
+- [Non-blocking](https://www.edaplayground.com/x/udAw)
+- [USB2.0 Non-blocking](https://www.edaplayground.com/x/vhih)
+
 <img src="Images/TLM_2_diagram.png" width= "90%" height = "60%">
 
 In TLM 2.0, communication between different components is facilitated through two distinct roles: the **Initiator** (sender) and the **Target** (receiver). 
@@ -29,9 +34,6 @@ In TLM 2.0, communication between different components is facilitated through tw
 - UVM TLM 2.0 blocking and non-blocking port implementations.
 - Basic USB 2.0 implementation for illustrating port connections.
 
-## EDA Playground links:
-- [Blocking](https://www.edaplayground.com/x/sQyx)
-- [Non-blocking](https://www.edaplayground.com/x/udAw)
-- [USB2.0 Non-blocking](https://www.edaplayground.com/x/vhih)
+
 
 TODO: Update ReadMe
